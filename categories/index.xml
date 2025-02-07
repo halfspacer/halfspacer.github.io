@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Tobias Nilsson</title>
-    <link>http://actuallava.com/categories/</link>
-    <description>Recent content in Categories on Tobias Nilsson</description>
-    <language>en-us</language><atom:link href="http://actuallava.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on Hi 👋 My name is Tobias.</title>
+    <link>https://actuallava.com/categories/</link>
+    <description>Recent content in Categories on Hi 👋 My name is Tobias.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://actuallava.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
