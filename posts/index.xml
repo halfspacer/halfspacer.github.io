@@ -18,14 +18,14 @@
     <item>
       <title>Write Code Like George R.R. Martin</title>
       <link>https://actuallava.com/posts/writelikemartin/</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://actuallava.com/posts/writelikemartin/</guid>
       <description>&lt;p&gt;George R.R. Martin, the writer behind A Song of Ice and Fire, is renowned for weaving intricate narratives with dozens of characters, sprawling kingdoms, and hidden plot threads—all while keeping readers engrossed. His secret? Clarity amidst complexity.&lt;/p&gt;&#xA;&lt;p&gt;Now, I&amp;rsquo;m quite passionate about this. I&amp;rsquo;ve seen first-hand junior developers taking months to understand a codebase, and longer to meaningfully contribute to it without breaking something in the process. Fortunately, I&amp;rsquo;ve also been around to see the opposite: codebases that are a joy to work with, where new developers can hit the ground running and make meaningful contributions from day one thanks to how the code was written.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NativeAOT in .NET: Harder, Better, Faster, Stronger</title>
       <link>https://actuallava.com/posts/nativeaot/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://actuallava.com/posts/nativeaot/</guid>
       <description>&lt;h1 id=&#34;nativeaot-in-net-harder-better-faster-stronger&#34;&gt;NativeAOT in .NET: Harder, Better, Faster, Stronger&lt;/h1&gt;&#xA;&lt;p&gt;Over the past few months, I’ve been diving (sinking?) deep into the world of .NET performance optimizations as part of trying to write better cloud services with less hassle. &amp;ldquo;Switch to Go! Or Rust!&amp;rdquo; - I hear you.&lt;br&gt;&#xA;But now hear me out:&lt;br&gt;&#xA;In this post, I&amp;rsquo;ll share my personal experiences and practical tips on using NativeAOT to achieve rapid startup times and a smaller memory footprint in .NET applications—without any hype, just what worked for me, and all without having to leave the comforting embrace of Satya Nadella (CEO, Microsoft).&lt;/p&gt;</description>
     </item>
