@@ -29,12 +29,5 @@
       <guid>https://actuallava.com/posts/nativeaot/</guid>
       <description>&lt;h1 id=&#34;nativeaot-in-net-harder-better-faster-stronger&#34;&gt;NativeAOT in .NET: Harder, Better, Faster, Stronger&lt;/h1&gt;&#xA;&lt;p&gt;Over the past few months, I’ve been diving (sinking?) deep into the world of .NET performance optimizations as part of trying to write better cloud services with less hassle. &amp;ldquo;Switch to Go! Or Rust!&amp;rdquo; - I hear you.&lt;br&gt;&#xA;But now hear me out:&lt;br&gt;&#xA;In this post, I&amp;rsquo;ll share my personal experiences and practical tips on using NativeAOT to achieve rapid startup times and a smaller memory footprint in .NET applications—without any hype, just what worked for me, and all without having to leave the comforting embrace of Satya Nadella (CEO, Microsoft).&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Mobile VR’s Retro Renaissance</title>
-      <link>https://actuallava.com/posts/mobilevroptimization/</link>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://actuallava.com/posts/mobilevroptimization/</guid>
-      <description>&lt;p&gt;Mobile VR headsets like the Meta Quest 3 deliver astonishing immersion, but behind the sleek facade lies a harsh reality: these devices still battle the same fundamental constraints that plagued early 3D consoles. Thermal limits, power budgets, and stereo rendering demands have forced developers to rediscover an art we’d nearly forgotten—&lt;strong&gt;doing more with less&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-timeless-bottleneck&#34;&gt;&lt;strong&gt;The Timeless Bottleneck&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Every generation of hardware brings new capabilities, but three challenges remain eternal:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thermal Walls&lt;/strong&gt;: No one wants a headset that overheats mid-game&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pixel Overload&lt;/strong&gt;: Rendering two high-res views simultaneously&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Battery Anxiety&lt;/strong&gt;: Players won’t stay immersed if runtime is measured in minutes&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Modern rendering pipelines often exacerbate these issues. Photorealistic lighting models and physics-based materials, while beautiful, were born for desktop GPUs that guzzle power like sports cars. Mobile VR demands the efficiency of a hybrid engine—which is exactly where retro techniques shine.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
