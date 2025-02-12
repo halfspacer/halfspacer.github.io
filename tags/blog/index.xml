@@ -16,11 +16,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Slackeee - Slack End-to-End Encryption&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This isn&amp;rsquo;t really a blog post per se, but more of a &amp;ldquo;Hey, I did this thing&amp;rdquo;.&lt;br&gt;&#xA;I&amp;rsquo;ve been working on a browser extension that adds end-to-end encryption to Slack messages. It started out as a small hackathon project, but I&amp;rsquo;ve been polishing it up and adding features since then.&lt;/p&gt;&#xA;&lt;p&gt;The extension is available for Firefox, but written for cross-compatibility (I just haven&amp;rsquo;t gotten around to publishing it to the Chrome Web Store yet), and you can find the source code on &lt;a href=&#34;https://github.com/halfspacer/slackeee&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Day I Broke the Unity Discord</title>
-      <link>https://actuallava.com/posts/theunitydiscord/</link>
+      <title>Write Code Like George R.R. Martin</title>
+      <link>https://actuallava.com/posts/writelikemartin/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://actuallava.com/posts/theunitydiscord/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The Day I Broke the Unity Discord (And What It Taught Me About Building Better Communities)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you missed the drama—lucky you—here’s &lt;a href=&#34;https://80.lv/articles/official-unity-discord-mod-deletes-helpful-advice-bans-users-for-emojis/&#34;&gt;the 80.lv article&lt;/a&gt; for context. But this isn’t a post about finger-pointing or rehashing the incident. It’s a reflection on why inclusive communities matter, why they’re fragile, and why I’ll gladly stir up trouble if it means creating change.&lt;/p&gt;&#xA;&lt;p&gt;A few months have passed. The chaos has subsided, my inbox has cooled, and I’ve (mostly) ditched the extra weight I collected over the holidays.&lt;br&gt;&#xA;Let’s address the lingering questions:&lt;/p&gt;</description>
+      <guid>https://actuallava.com/posts/writelikemartin/</guid>
+      <description>&lt;p&gt;George R.R. Martin, the writer behind A Song of Ice and Fire, is renowned for weaving intricate narratives with dozens of characters, sprawling kingdoms, and hidden plot threads—all while keeping readers engrossed. His secret? Clarity amidst complexity.&lt;/p&gt;&#xA;&lt;p&gt;Software architects and developers can learn a lot from Martin’s approach. Just as he ensures his epic tales remain accessible to readers, developers must write code that’s comprehensible to anyone who encounters it—especially those unfamiliar with its underlying complexities. This philosophy fosters modular design, extensibility, and maintainability while reducing bugs and accelerating junior developer onboarding. Let’s explore why coding like a storyteller pays dividends.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NativeAOT in .NET: Harder, Better, Faster, Stronger</title>
